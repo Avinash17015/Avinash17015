@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avinash17015 - Avinash S
-- 👀 I’m interested in Manual/Automation/QA Engineer role. (Experience - Fresher)
-- 🌱 I’m currently learning Githib basics, Selenuim Basics, C and Python
+- 👀 I’m interested in Power BI Admin/Power BI Developer/Data Analyst (Experience - Fresher)
+- 🌱 I’m currently learning Power BI Admin Portal and settings, dashboards, Power BI desktop.
 - 💞️ I’m looking to collaborate on Internship/Job opportunties
 - 📫 You can reach out me via email - avinkrrish@gmail.com
 Contact Number: 8939733197
